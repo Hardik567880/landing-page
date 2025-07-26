@@ -124,3 +124,44 @@ body {
 .cont32 h4 {
     display: inline;
 }
+.main-cont4 {
+    display: inline-flex;
+    align-self: center;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: auto;
+    width: auto;
+    background-color: #3882F6;
+    border: solid #3882F6;
+    border-radius: 7px;
+    color: white;
+}
+.cont41 {
+    margin-right: 195px;
+}
+.cont41 h3 {
+    font-size: 23px;
+    margin: 0;
+}
+.cont41 p {
+    font-weight: 300;
+}
+.cont42 {
+    align-self: center;    
+}
+.cont42 button {
+    text-align: center;
+    height: 35px;
+    width: 100px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 550;
+    border-radius: 5px;
+    border: solid #F9FAF8;
+}
